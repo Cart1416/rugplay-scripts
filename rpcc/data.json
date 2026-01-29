@@ -1,0 +1,11 @@
+{
+  "user_reports": {
+    "exampleuser1": {
+      "untrustworthy": ["exampleuser2"],
+      "trustworthy": ["exampleuser3", "exampleuser4"]
+    }
+  },
+  "comments_checked": [
+    0
+  ]
+}

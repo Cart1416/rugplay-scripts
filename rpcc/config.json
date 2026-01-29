@@ -1,0 +1,7 @@
+{
+    "check_interval_seconds": 60,
+    "chatcoin": "RPCC",
+    "websocket_mode": true,
+    "cf_clearance": "get from your cookies",
+    "__Secure-better-auth.session_token": "ctrl+shift+i devtools application tab"
+}

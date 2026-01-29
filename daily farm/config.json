@@ -1,0 +1,10 @@
+{
+    "check_interval_seconds": 60,
+    "accounts": [
+        {
+            "display_name": "clever_whale9881",
+            "cf_clearance": "get from your cookies",
+            "__Secure-better-auth.session_token": "ctrl+shift+i devtools application tab"
+        }
+    ]
+}
